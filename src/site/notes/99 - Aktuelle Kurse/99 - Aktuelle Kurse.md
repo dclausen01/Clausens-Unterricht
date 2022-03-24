@@ -1,9 +1,27 @@
 ---
 {"dg-publish":true,"permalink":"/99-aktuelle-kurse/99-aktuelle-kurse/","tags":"gardenEntry"}
 ---
-# 99 - Aktuelle Kurse Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+
+
+%% Begin Waypoint %%
+- **99 - Aktuelle Kurse**
+	- **01 - IT21a-LFAE**
+	- **02 - BG19-PHI**
+	- **03 - IT20b-LFAE**
+		- **LF4**
+			- **01 - DSGVO**
+				- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/01 - Einstieg und persönliche Daten|01 - Einstieg und persönliche Daten]]
+				- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/02 - DSGVO im Detail|02 - DSGVO im Detail]]
+				- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/Index_01 - DSGVO|Index_01 - DSGVO]]
+	- **04 - BGGW20-PHI**
+	- **05 - BGT20-INT**
+	- **06 - BGWG21-PHI**
+		- **03 - Gehirn & Geist**
+			- [[99 - Aktuelle Kurse/06 - BGWG21-PHI/03 - Gehirn & Geist/03 Drei Thesen zum Zusammenhang von Körper und Geist.excalidraw|03 Drei Thesen zum Zusammenhang von Körper und Geist.excalidraw]]
+	- **07 - BGGWT21-PHI**
+	- **08 - BGT19-INT**
+
+	- **09 - BGW20-PHI**
+	- [[99 - Aktuelle Kurse/99 - Aktuelle Kurse|99 - Aktuelle Kurse]]
+
+%% End Waypoint %%
