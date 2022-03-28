@@ -9,7 +9,5 @@
 		- **01 - DSGVO**
 			- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/01 - Einstieg und persönliche Daten|01 - Einstieg und persönliche Daten]]
 			- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/02 - DSGVO im Detail|02 - DSGVO im Detail]]
-			- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/01 - DSGVO/Index_01 - DSGVO|Index_01 - DSGVO]]
-		- [[99 - Aktuelle Kurse/03 - IT20b-LFAE/LF4/Index_LF4|Index_LF4]]
 
 %% End Waypoint %%
