@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/99-aktuelle-kurse/99-aktuelle-kurse/","tags":"gardenEntry"}
 ---
 
-
 %% Begin Waypoint %%
 - **99 - Aktuelle Kurse**
 	- **01 - IT21a-LFAE**
@@ -60,4 +59,5 @@
 	- [[99 - Aktuelle Kurse/99 - Aktuelle Kurse|99 - Aktuelle Kurse]]
 
 %% End Waypoint %%
+
 
