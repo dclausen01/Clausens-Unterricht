@@ -10,12 +10,12 @@
 			- **1 - Das Umfeld der Softwareentwicklung analysieren**
 				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/01 - Einstieg|01 - Einstieg]]
 				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/02 - Aufgaben und Kompetenzen von Softwareentwicklern|02 - Aufgaben und Kompetenzen von Softwareentwicklern]]
-				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/02-＞ Aufgabe 2|02-＞ Aufgabe 2]]
+				- [[02-＞ Aufgabe 2]]
 				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03 - Software aus Sicht von Softwareentwicklern unterscheiden|03 - Software aus Sicht von Softwareentwicklern unterscheiden]]
-				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03-＞ Aufgabe 2|03-＞ Aufgabe 2]]
-				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03-＞ Aufgabe 4|03-＞ Aufgabe 4]]
+				- [[03-＞ Aufgabe 2]]
+				- [[03-＞ Aufgabe 4]]
 				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04 - Neuentwicklung vs. Anpassung von Software|04 - Neuentwicklung vs. Anpassung von Software]]
-				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04-＞ Aufgabe 2|04-＞ Aufgabe 2]]
+				- [[04-＞ Aufgabe 2]]
 				- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/05 - In Softwareprojekten mitarbeiten|05 - In Softwareprojekten mitarbeiten]]
 			- **2 - Grundlagen zur Verwaltung von Daten in IT-Systemen erläutern**
 			- **3 - Den Prozess der Softwareentwicklung analysieren**
