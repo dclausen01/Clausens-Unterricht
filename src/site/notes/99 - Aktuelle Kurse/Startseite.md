@@ -5,4 +5,4 @@
 Sie haben den digital garden "Clausens Unterricht" gefunden - hier poste ich meine Tafelbilder und Arbeitsbögen.
 
 ## Übersicht Kurse
-[[99 - Aktuelle Kurse/01 - IT21a-LFAE/01 - IT21a-LFAE|01 - IT21a-LFAE]]
+[[99 - Aktuelle Kurse/01 - IT21a-LFAE/IT21a-LFAE|IT21a-LFAE]]
