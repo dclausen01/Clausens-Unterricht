@@ -28,6 +28,12 @@ Wir befassen uns zunächst mit imperativer Programmierung (da diese am einfachst
 
 [https://www.inf-schule.de/imperative-programmierung/python](https://www.inf-schule.de/imperative-programmierung/python) 
 
+   
+
+Wer lieber mit Videos arbeitet, kann z. B. dieses Tutorial heranziehen:
+
+[Python Tutorial deutsch [1/24] - Dein erstes Programm](https://www.youtube.com/watch?v=oxXAb8IikHM)
+
 Aufgabe: 
 
 1. Arbeitet das Einstiegsprojekt durch (<u>Populationsentwicklung</u>) - bei Fragen stehe ich zur Verfügung! 
