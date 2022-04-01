@@ -3,7 +3,6 @@
 ---
 
 %% Begin Waypoint %%
-- **08 - BGT19-INT**
-	- [[99 - Aktuelle Kurse/08 - BGT19-INT/08 - BGT19-INT|08 - BGT19-INT]]
+- **[[99 - Aktuelle Kurse/08 - BGT19-INT/08 - BGT19-INT|08 - BGT19-INT]]**
 
 %% End Waypoint %%
