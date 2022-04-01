@@ -14,3 +14,6 @@ Sie haben den digital garden "Clausens Unterricht" gefunden - hier poste ich mei
 - [[99 - Aktuelle Kurse/07 - BGGWT21-PHI/07 - BGGWT21-PHI|07 - BGGWT21-PHI]]
 - [[99 - Aktuelle Kurse/08 - BGT19-INT/08 - BGT19-INT|08 - BGT19-INT]]
 - [[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]
+
+# Philosophie AG
+[[07 - Philosophie AG/00 - Themenspeicher|00 - Themenspeicher]]
