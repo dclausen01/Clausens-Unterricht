@@ -3,7 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **09 - BGW20-PHI**
-	- [[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]
+- **[[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]**
+	- [[99 - Aktuelle Kurse/09 - BGW20-PHI/Zeichnung 2022-04-04 12.11.47.excalidraw|Zeichnung 2022-04-04 12.11.47.excalidraw]]
 
 %% End Waypoint %%
