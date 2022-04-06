@@ -3,6 +3,7 @@
 ---
 
 %% Begin Waypoint %%
-- **[[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]**
+- **09 - BGW20-PHI**
+	- [[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]
 
 %% End Waypoint %%
