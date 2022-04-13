@@ -4,5 +4,6 @@
 
 %% Begin Waypoint %%
 - **[[99 - Aktuelle Kurse/08 - BGT19-INT/08 - BGT19-INT|08 - BGT19-INT]]**
+	- [[99 - Aktuelle Kurse/08 - BGT19-INT/Tafelbild-Test für Export.excalidraw|Tafelbild-Test für Export.excalidraw]]
 
 %% End Waypoint %%
