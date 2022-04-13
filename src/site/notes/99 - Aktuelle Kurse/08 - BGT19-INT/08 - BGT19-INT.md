@@ -4,6 +4,7 @@
 
 %% Begin Waypoint %%
 - **[[99 - Aktuelle Kurse/08 - BGT19-INT/08 - BGT19-INT|08 - BGT19-INT]]**
-	- [[99 - Aktuelle Kurse/08 - BGT19-INT/Tafelbild-Test für Export|Tafelbild-Test für Export]]
+	- [[99 - Aktuelle Kurse/08 - BGT19-INT/Excalidraw-Tabellen Prototyp (Tafel)|Excalidraw-Tabellen Prototyp (Tafel)]]
+	- [[99 - Aktuelle Kurse/08 - BGT19-INT/Excalidraw-Tabellen Prototyp|Excalidraw-Tabellen Prototyp]]
 
 %% End Waypoint %%
