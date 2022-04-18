@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/09-bgw-20-phi/09-bgw-20-phi/"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/09-bgw-20-phi/09-bgw-20-phi/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %% Begin Waypoint %%
 - **09 - BGW20-PHI**
