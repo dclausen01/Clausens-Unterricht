@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/06-bgwg-21-phi/06-bgwg-21-phi/"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/06-bgwg-21-phi/06-bgwg-21-phi/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %% Begin Waypoint %%
 - **06 - BGWG21-PHI**
