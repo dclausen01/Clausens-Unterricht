@@ -5,6 +5,6 @@
 
 %% Begin Waypoint %%
 - **[[99 - Aktuelle Kurse/04 - BGGW20-PHI/04 - BGGW20-PHI|04 - BGGW20-PHI]]**
-	- [[Obsidian-Setup für Unterricht|Obsidian-Setup für Unterricht]]
+	- [[99 - Aktuelle Kurse/04 - BGGW20-PHI/Zeichnung 2022-04-18 15.37.44.excalidraw|Zeichnung 2022-04-18 15.37.44.excalidraw]]
 
 %% End Waypoint %%
