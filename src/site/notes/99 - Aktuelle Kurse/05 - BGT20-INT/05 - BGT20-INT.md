@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgt-20-int/05-bgt-20-int/"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgt-20-int/05-bgt-20-int/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %% Begin Waypoint %%
 - **05 - BGT20-INT**
