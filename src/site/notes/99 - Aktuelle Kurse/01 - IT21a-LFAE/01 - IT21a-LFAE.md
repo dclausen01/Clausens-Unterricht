@@ -1,18 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/01-it-21a-lfae/"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/01-it-21a-lfae/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %% Begin Waypoint %%
 - **[[99 - Aktuelle Kurse/01 - IT21a-LFAE/01 - IT21a-LFAE|01 - IT21a-LFAE]]**
 	- **LF5**
 		- **1 - Das Umfeld der Softwareentwicklung analysieren**
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/01 - Einstieg|01 - Einstieg]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/02 - Aufgaben und Kompetenzen von Softwareentwicklern|02 - Aufgaben und Kompetenzen von Softwareentwicklern]]
-			- [[02-> Aufgabe 2]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/02-> Aufgabe 2|02-> Aufgabe 2]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03 - Software aus Sicht von Softwareentwicklern unterscheiden|03 - Software aus Sicht von Softwareentwicklern unterscheiden]]
-			- [[03-> Aufgabe 2]]
-			- [[03-> Aufgabe 4]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03-> Aufgabe 2|03-> Aufgabe 2]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/03-> Aufgabe 4|03-> Aufgabe 4]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04 - Neuentwicklung vs. Anpassung von Software|04 - Neuentwicklung vs. Anpassung von Software]]
-			- [[04-> Aufgabe 2]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04-> Aufgabe 2|04-> Aufgabe 2]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/05 - In Softwareprojekten mitarbeiten|05 - In Softwareprojekten mitarbeiten]]
 		- **2 - Grundlagen zur Verwaltung von Daten in IT-Systemen erläutern**
 		- **3 - Den Prozess der Softwareentwicklung analysieren**
@@ -23,7 +24,7 @@
 		- **5 - Einfache Anwendungen in Python implementieren**
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/01 - Einsteig in die Programmierung|01 - Einsteig in die Programmierung]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02 - Die syntaktischen Grundlagen|02 - Die syntaktischen Grundlagen]]
-			- [[02-> Übung Variablen]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02-> Übung Variablen|02-> Übung Variablen]]
 		- **6 - In Anwendungen auf Dateien zugreifen**
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/6 - In Anwendungen auf Dateien zugreifen/01 - Dateien und Datenströme|01 - Dateien und Datenströme]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/6 - In Anwendungen auf Dateien zugreifen/02 - Dateiformate|02 - Dateiformate]]
