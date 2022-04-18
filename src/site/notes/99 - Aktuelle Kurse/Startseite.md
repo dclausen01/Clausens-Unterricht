@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/startseite/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/startseite/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Herzlich Willkommen!
 Sie haben den digital garden "Clausens Unterricht" gefunden - hier poste ich meine Tafelbilder und Arbeitsbögen.
 
