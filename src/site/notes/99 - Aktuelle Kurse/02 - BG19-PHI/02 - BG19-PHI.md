@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/02-bg-19-phi/02-bg-19-phi/"}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/02-bg-19-phi/02-bg-19-phi/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %% Begin Waypoint %%
 - **02 - BG19-PHI**
