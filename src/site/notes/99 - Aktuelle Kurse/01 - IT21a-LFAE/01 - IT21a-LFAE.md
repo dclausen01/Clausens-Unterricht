@@ -23,6 +23,7 @@
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/01 - Einsteig in die Programmierung|01 - Einsteig in die Programmierung]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02 - Die syntaktischen Grundlagen|02 - Die syntaktischen Grundlagen]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02-＞ Übung Variablen|02-＞ Übung Variablen]]
+			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02-x Übungen einfache Programme (1)|02-x Übungen einfache Programme (1)]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/5 - Einfache Anwendungen in Python implementieren/02-x Übungen einfache Programme|02-x Übungen einfache Programme]]
 		- **6 - In Anwendungen auf Dateien zugreifen**
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/6 - In Anwendungen auf Dateien zugreifen/01 - Dateien und Datenströme (1)|01 - Dateien und Datenströme (1)]]
