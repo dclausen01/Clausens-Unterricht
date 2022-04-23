@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/01-it-21a-lfae/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 %% Begin Waypoint %%
 - **[[99 - Aktuelle Kurse/01 - IT21a-LFAE/01 - IT21a-LFAE|01 - IT21a-LFAE]]**
 	- **LF5**
