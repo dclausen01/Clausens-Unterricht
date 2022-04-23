@@ -15,6 +15,8 @@
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04 - Neuentwicklung vs. Anpassung von Software|04 - Neuentwicklung vs. Anpassung von Software]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/04-＞ Aufgabe 2|04-＞ Aufgabe 2]]
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/1 - Das Umfeld der Softwareentwicklung analysieren/05 - In Softwareprojekten mitarbeiten|05 - In Softwareprojekten mitarbeiten]]
+		- **2 - Grundlagen zur Verwaltung von Daten in IT-Systemen erläutern**
+		- **3 - Den Prozess der Softwareentwicklung analysieren**
 		- **4 - Den Prozess der Anforderungsspezifikation und des Softwareentwurfs beschreiben**
 			- [[99 - Aktuelle Kurse/01 - IT21a-LFAE/LF5/4 - Den Prozess der Anforderungsspezifikation und des Softwareentwurfs beschreiben/04 - Modellierungssprachen|04 - Modellierungssprachen]]
 		- **5 - Einfache Anwendungen in Python implementieren**
