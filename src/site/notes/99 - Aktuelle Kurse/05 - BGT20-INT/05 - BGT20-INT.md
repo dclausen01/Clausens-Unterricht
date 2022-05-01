@@ -4,7 +4,7 @@
 
 
 %% Begin Waypoint %%
-- **05 - BGT20-INT**
-	- [[99 - Aktuelle Kurse/05 - BGT20-INT/05 - BGT20-INT|05 - BGT20-INT]]
+- **[[99 - Aktuelle Kurse/05 - BGT20-INT/05 - BGT20-INT|05 - BGT20-INT]]**
+	- [[99 - Aktuelle Kurse/05 - BGT20-INT/Test|Test]]
 
 %% End Waypoint %%
