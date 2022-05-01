@@ -17,4 +17,4 @@ Sie haben den digital garden "Clausens Unterricht" gefunden - hier poste ich mei
 - [[99 - Aktuelle Kurse/09 - BGW20-PHI/09 - BGW20-PHI|09 - BGW20-PHI]]
 
 # Philosophie AG
-[[07 - Philosophie AG/00 - Themenspeicher|00 - Themenspeicher]]
+[[08 - Philosophie AG/00 - Themenspeicher|00 - Themenspeicher]]
