@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/99-aktuelle-kurse/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/99-aktuelle-kurse/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
