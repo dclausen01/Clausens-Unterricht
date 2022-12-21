@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/05-einstieg-in-anthropologie/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 # Gedankenexperiment: "Die Bewohner von Terra - Berichterstattung nach Delta Y" 
 Nehmen wir an, wir wären noch viel weniger allein im Weltraum als wir es je vermuten 
 würden wir werden nämlich beobachtet, wenn auch erst seit einigen Tagen, Die Wesen, 
