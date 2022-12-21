@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/99-aktuelle-kurse/","tags":"gardenEntry"}
 ---
+
 
 # Startseite
 
