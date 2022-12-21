@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/01-was-ist-oder-was-gehoert-zu-philosophie-excalidraw/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/01-was-ist-oder-was-gehoert-zu-philosophie-excalidraw/"}
 ---
 <style>
 .container {font-family: sans-serif; text-align: center;}
