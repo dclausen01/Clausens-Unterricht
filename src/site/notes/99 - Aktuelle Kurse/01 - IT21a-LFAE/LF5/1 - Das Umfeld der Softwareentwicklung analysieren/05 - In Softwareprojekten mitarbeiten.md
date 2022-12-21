@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/lf-5/1-das-umfeld-der-softwareentwicklung-analysieren/05-in-softwareprojekten-mitarbeiten/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 
 # Was ist eigentlich ein Projekt?
 Was unterscheidet ein **Projekt** von **alltäglichen oder Routinearbeiten**?
