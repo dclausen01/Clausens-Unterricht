@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/lf-5/5-einfache-anwendungen-in-python-implementieren/02-uebung-variablen/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 
 # Übungen
 ```
