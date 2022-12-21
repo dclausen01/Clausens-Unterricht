@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/02-philosophische-gedanken-in-kindheit-und-jugend-excalidraw/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/02-philosophische-gedanken-in-kindheit-und-jugend-excalidraw/"}
 ---
 <style>
 .container {font-family: sans-serif; text-align: center;}
