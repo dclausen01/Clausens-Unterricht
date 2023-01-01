@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/03-it-20b-lfae/lf-4/01-dsgvo/02-dsgvo-im-detail/"}
 ---
+
 
 # Die DSGVO heruntergebrochen auf wichtige Begriffe
 Die DSGVO (Datenschutzgrundverordnung) ist eine im europaischen Recht verankerte Verordnung zum Schutz personenbezogener Daten.
