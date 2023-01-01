@@ -1,7 +1,7 @@
 ---
-excalidraw-plugin: parsed
-dg-publish: true
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/05-bgg-22-phi/00-was-ist-philosophie/03-was-sind-mythos-und-logos/"}
 ---
+
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
