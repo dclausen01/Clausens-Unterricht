@@ -1,10 +1,7 @@
 ---
-
-excalidraw-plugin: raw
-
-dg-publish: true
-
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/01-it-21a-lfae/lf-5/1-das-umfeld-der-softwareentwicklung-analysieren/01-einstieg/"}
 ---
+
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
