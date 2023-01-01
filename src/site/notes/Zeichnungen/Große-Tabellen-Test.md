@@ -1,12 +1,7 @@
 ---
-
-excalidraw-plugin: parsed
-tags: [excalidraw]
-
-dg-publish: true
-
-
+{"dg-publish":true,"permalink":"/zeichnungen/grosse-tabellen-test/"}
 ---
+
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
