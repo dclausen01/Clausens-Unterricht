@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/08-philosophie-ag/00-themenspeicher/"}
 ---
+
 
 | Themen                                                                                                         | Weiterführende Fragen                            | kurze Zusammenfassung | abgehakt / erledigt |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------- | ------------------- |
