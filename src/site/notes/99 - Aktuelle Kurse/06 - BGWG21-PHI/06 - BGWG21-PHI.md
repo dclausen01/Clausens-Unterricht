@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/06-bgwg-21-phi/06-bgwg-21-phi/"}
 ---
+
 
 
 - **[[99 - Aktuelle Kurse/06 - BGWG21-PHI/06 - BGWG21-PHI\|06 - BGWG21-PHI]]**
