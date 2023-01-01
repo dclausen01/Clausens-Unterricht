@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/99-aktuelle-kurse/03-it-20b-lfae/lf-4/01-dsgvo/01-einstieg-und-persoenliche-daten/"}
 ---
+
 
 # Grundwissen zum Datenschutz: Personenbezogene Daten
 ## WAS SIND PERSONENBEZOGENE DATEN? 
