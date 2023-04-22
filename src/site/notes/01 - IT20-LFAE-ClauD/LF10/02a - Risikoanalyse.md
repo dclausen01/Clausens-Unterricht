@@ -10,7 +10,3 @@ Eine Risikoanalyse umfasst verschiedene Schritte. Zunächst müssen die möglich
 Nach der Priorisierung der Risiken erfolgt die Planung von Maßnahmen zur Risikominimierung. Hierbei sollten alternative Lösungswege betrachtet und deren Umsetzbarkeit geprüft werden. Auch eine regelmäßige Überprüfung der getroffenen Maßnahmen ist wichtig, um sicherzustellen, dass diese ausreichend sind.
 
 Eine erfolgreiche Risikoanalyse trägt dazu bei, das Projektmanagement effektiver zu gestalten und das Auftreten von unvorhergesehenen Problemen zu minimieren. Daher ist es für Fachinformatiker Anwendungsentwicklung im 3. Ausbildungsjahr wichtig, die Grundlagen einer solchen Analyse zu erlernen und in der Praxis anwenden zu können.
-
-```markdown
-[<img style="float:left" src="https://user-images.githubusercontent.com/14358394/115450238-f39e8100-a21b-11eb-89d0-fa4b82cdbce8.png" width="200">](https://ko-fi.com/oleeskild)
-```
