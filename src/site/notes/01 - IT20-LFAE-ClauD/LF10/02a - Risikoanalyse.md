@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-it-20-lfae-clau-d/lf-10/02a-risikoanalyse/"}
+{"dg-publish":true,"permalink":"/01 - IT20-LFAE-ClauD/LF10/02a - Risikoanalyse/"}
 ---
 
 
