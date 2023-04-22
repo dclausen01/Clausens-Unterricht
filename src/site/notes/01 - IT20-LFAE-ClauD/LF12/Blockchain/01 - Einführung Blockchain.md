@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-it-20-lfae-clau-d/lf-12/blockchain/01-einfuehrung-blockchain/"}
+{"dg-publish":true,"permalink":"/01 - IT20-LFAE-ClauD/LF12/Blockchain/01 - Einführung Blockchain/"}
 ---
 
 Die **Blockchain-Technologie** ist ein dezentrales, verteiltes Ledger-System (Ledger, dt.: Kontobuch), das auf einem Netzwerk von Computern basiert und in der Lage ist, Daten auf sichere und transparente Weise zu speichern und zu übertragen. Die Blockchain ist eine der wichtigsten Innovationen der letzten Jahre und hat das Potenzial, viele Branchen zu revolutionieren.
