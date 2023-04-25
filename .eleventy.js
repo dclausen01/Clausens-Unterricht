@@ -369,6 +369,21 @@ module.exports = function (eleventyConfig) {
       t.classList.add("table-wrapper");
       t.innerHTML = `<table>${inner}</table>`;
     }
+
+    for (const t of parsed.querySelectorAll(
+      ".cm-s-obsidian > .block-language-dataview > table"
+    )) {
+      t.classList.add("dataview");
+      t.classList.add("table-view-table");
+      t.querySelector("thead").classList.add("table-view-thead");
+      t.querySelector("tbody").classList.add("table-view-tbody");
+      t.querySelectorAll("thead > tr").forEach((tr) => {
+        tr.classList.add("table-view-tr-header");
+      });
+      t.querySelectorAll("thead > tr > th").forEach((th) => {
+        th.classList.add("table-view-th");
+      });
+    }
     return str && parsed.innerHTML;
   });
 
@@ -398,12 +413,7 @@ module.exports = function (eleventyConfig) {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
-  eleventyConfig.addPlugin(pluginRss, {
-    posthtmlRenderOptions: {
-      closingSingleTag: "slash",
-      singleTags: ["link"],
-    },
-  });
+ 
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
     if (!date) return "";
@@ -420,6 +430,13 @@ module.exports = function (eleventyConfig) {
       return variable.replaceAll("\\", "\\\\");
     }
     return variable;
+  });
+
+ eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"],
+    },
   });
 
   userEleventySetup(eleventyConfig);
