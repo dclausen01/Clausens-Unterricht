@@ -34,12 +34,38 @@ Ich landete einer übersichtlichen Struktur und - je nach Gerät - 18 bis 20 Plu
 Das alles klingt sehr technisch-nerdig und: Das war und ist es auch. Aber dieser Weg war nötig, um jetzt eben keinen Aufwand mehr in die technische Seite des Systems investieren zu müssen. Ich kann mich jetzt auf das Unterrichten, Organisieren, Verwalten und Strukturieren konzentrieren und werde dabei von einem zuverlässigen, schnellen, offenen System unterstützt, dass es mir erlaubt, für (fast) alle Anwendungsfälle eine passende und einfach zu handhabende Exportfunktion zu haben - diese Texte schreibe ich in Obsidian und mit einem Befehl landen sie, fertig formatiert, auf dieser Website. Tafelbilder bereite ich visuell ansprechend (wie ich finde) mit dem Plugin Excalidraw vor und projiziere Obsidian in einer minimalistischen Ansicht direkt auf die digitalen Whiteboards im Klassenraum. Ich verwalte Tabelle mit Schüler:innendaten - mit einem weiteren Plugin (Meld Encrypt) sicher AES-verschlüsselt. Dies sind nur einige Beispiele und Anwendungsfälle, die ich mittlerweile mit Obsidian umsetzen. Im Kern ist es für mich eine Software geblieben, die Tafelbilder und Arbeitsbögen beinhaltet - die ich nun aber in offenen Standards an meine Schüler:innen verteile. Da ich unsere Kommunikationsplattform als WebApp (über das Plugin Custom Frames) auch in Obsidian intergrieren konnte, fällt sogar noch der Schritt in eine externe App weg, wenn ich Tafelbilder oder Arbeitsblätter verschicke.
 
 ## Schritt 4: In die Welt hinein - Unterricht mit Obsidian, Excalidraw und Co.
-In diesem Abschnitt möchte ich etwas mehr ins Detail gehen, wie ich meinen Unterricht in Obsidian organisiere und welche Plugins mich dabei wie unterstützen.
+In diesem Abschnitt möchte ich etwas mehr ins Detail gehen, wie ich meinen Unterricht in Obsidian organisiere und welche Plugins mich dabei wie unterstützen. Ich formuliere zunächst einen beispielhaften Ablauf, an dem ich dann die einzelnen Arbeits- und Präsentationsphasen aufzeige. Natürlich sieht mein Unterricht nicht immer so aus wie hier geschildert; es geht mir nur um das Exemplarische.
 
+### Ein beispielhafter Ablauf
+
+### Plugins, die ich benutze
+Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich konzentriere mich dabei auf diejenigen, die für die Anwendung im Unterricht und für die Organisation hilfreich sind. Alle anderen Plugins (z. B. "Style Settings" für die Konfiguration der Anwendungsoberfläche oder "Cycle through Panes" für die angenehmere Bedienung per Tastatur) lasse ich hier weg, da diese immer eine Frage des persönlichen Geschmacks sind. 
+
+**Liste der Plugins (alphabetisch sortiert):**
+- Custom Frames
+	- Erlaubt es, selbst definierte Websites im rechten Seitenpanel zu laden - z. B. praktisch für das Laden unserer Kommunikationsplattform als WebApp, aber auch für andere Dienste (z. B. Taskcards, mit dem ich auch viel interagiere).
+- Digital Garden
+	- Ein echt tolles Plugin (das allerdings wirklich einigen Sachverstand erfordert, um korrekt konfiguriert zu werden - es sind dazu auch einige Accounts bei Webdiensten wie z. B. GitHub, Vercel oder Netlify nötig), dass einen "digitalen Garten" anlegt. Das ist im Grunde eine Website, auf der ich mit einem einzigen Befehl hübsch formatiert meine Notizen veröffentlichen kann - z. B. diesen Beitrag. Es ist also ein Blog, nur ohne die Möglichkeit der Interaktion.
+- Excalidraw
+	- Mein all-time favorite und must have (um zwei Anglizismen zu bemühen). Ohne Excalidraw wäre Obsidian für mich nicht sinnvoll nutzbar. Es stellt die "unendlichen" Schreib- und Zeichenfläche bereit (übrigens, Excalidraw gibt es primär auch als [WebApp](https://excalidraw.com) mit einer tollen Kollaborationsfunktion), verwendet ebenfalls zum Speichern offene Standards und kann durch heruntergeladene oder eigene Scripte erweitert werden (so habe ich mir z. B. ein Script geschrieben, um mir visuell ansprechende Tabellen generieren zu können). Obwohl nicht alle Funktionen so "smooth" funktionieren wie z. B. unter OneNote (insbesondere die Textbearbeitung ist viel rudimentärer) bevorzuge ich Excalidraw mittlerweile, schon alleine aufgrund des speziellen "Looks" den die App den mit ihr erstellten Inhalten verleiht. 
+- Full Calendar
+	- Ein nett anzuschauender Kalender, in dem die Einträge als Notizen in einem Ordner der eigenen Wahl abgelegt werden. Sehr elegant, um z. B. den Überblick zu behalten über all die Aufgaben, die man im Jahresablauf (immer wieder) zu bestimmten Zeitpunkten erledigen muss.
+- Highlightr
+	- Textformatierungs-Plugin, das etwas Farbe ins Spiel bringt. Nicht mehr, aber auch nicht weniger.
+- Image Inserter
+	- Hiermit kann ich - ohne die App zu verlassen - Bilder aus offenen Quellen (also solche, die Bilder mit Creative Commons Lizenzen) direkt in meine Notizen einfügen kann (z. B.v on Unsplash u. a.)
+- Kanban
+	- Ein sehr schönes Kanban-Modul, das viel Formatierungsoptionen für die Cards bietet - es erlaubt sogar, dass andere Notizen "transcluded" werden (d. h. ich kann Notizen auf einer Kanban-Karte referenzieren und dafür sorgen, dass nicht der Notiztitel, sondern die Notiz selbst direkt in der Karte angezeigt wird - sehr praktisch z. B. für Checklisten). 
+- MAKE.md
+	- Eine "eierlegende Wollmilchsau" was die (Um)Gestaltung des Workflows betrifft - das Plugin hat zu viele Funktionen, um sie hier auch nur im Ansatz zu beschreiben.
+- Meld Encrypt
+	- Nutze ich, um verschlüsselte Notizen zu erstellen, wenn ich besonders sensible Daten erfassen möchte. Auch Teile von Notizen können verschlüsselt werden.
+- Ozan's Image in Editor Plugin
+	- Unverzichtbar für das komfortable Anzeigen von Bildern in Notizen, die dann auch herangezoomt usw. werden können. 
 
 - Wer es möchte: Bau Verwaltungsstrukturen: https://www.youtube.com/watch?v=IRnq24jp3oc
 
-## Schritt 5: Privacy by design - auch in der Synchronisation
-- Der Vault ist ein Ordner - nicht mehr und nicht weniger
-- SyncThing: Direkte Synchronisation von Gerät zu Gerät, ohne Cloud - open source und Verschlüsselung inklusive
-- Fazit: Meine Daten unter meiner Kontrolle
+## Schritt 5: Privacy by design - auch bei der Synchronisation
+- Der Vault ist ein Ordner auf der eigenen Festplatte - nicht mehr und nicht weniger
+- SyncThing: Direkte Synchronisation von Gerät zu Gerät, ohne Cloud-Anbindung - open source und Verschlüsselung inklusive
+- Fazit: Meine Daten unter meiner Kontrolle 
