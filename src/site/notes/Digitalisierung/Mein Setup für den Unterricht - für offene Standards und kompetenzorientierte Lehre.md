@@ -9,10 +9,10 @@ Ich hätte nun natürlich bei OneNote bleiben können und einfach alle meine Sei
 
 ## Schritt 2: Was gibt es überhaupt auf dem Markt?
 Ich habe zunächst begonnen mir anzuschauen, was es so alles an Software gibt, die OneNote ersetzen könnte. Diese Suche gestaltete sich durchaus schwierig, da die üblichen "Softwareklassen" nicht so recht umfassend greifen: OneNote ist natürlich eine Notizapplikation - aber die üblichen Verdächtigen wie Evernote, Google Notizen, Apple Notes usw. sind dann eben exklusiver für das Erstellen und Verwalten von Notizen als OneNote das ist. Auch Anwendungen aus dem Bereich der Whiteboard-Apps (wie etwa Microsoft Whiteboard, Xournal++ usw.) bieten nicht alle Funktionen, die ich an OneNote habe schätzen gelernt. Ich überlegte mir also zunächst, was ich in einem Ersatz eigentlich erwartete und kam dabei ungefähr auf folgende Liste:
-- Notizfunktionen: Erfassen von Inhalten, Sortierung mehrerer Notizseiten mit mehreren Hierarchiebenen, präfiert in einer Ordner- bzw. Baumstruktur
-- Whiteboard-Funktionen: Eine Art "großer Leinwand", auf der ich frei Schreiben, Zeichnen, Bilder und PDF-Dokumente anordnen und miteinander verknüpfen kann
-- Export von Daten: Neu hinzugekommen ist der Wunsch, Inhalte leicht in gängige Formate exportieren zu können - Bildateien, PDF-Dateien (die ja nicht im eigentlichen Sinne "offen", dafür aber sehr gängig sind), einfache Textformate (nicht in propritären Formaten) usw.
-- Verfügbar auf allen Geräten: Von Windows über Linux bis hin zu Android
+**- Notizfunktionen**: Erfassen von Inhalten, Sortierung mehrerer Notizseiten mit mehreren Hierarchiebenen, präfiert in einer Ordner- bzw. Baumstruktur
+**- Whiteboard-Funktionen**: Eine Art "großer Leinwand", auf der ich frei Schreiben, Zeichnen, Bilder und PDF-Dokumente anordnen und miteinander verknüpfen kann
+**- Export von Daten**: Neu hinzugekommen ist der Wunsch, Inhalte leicht in gängige Formate exportieren zu können - Bildateien, PDF-Dateien (die ja nicht im eigentlichen Sinne "offen", dafür aber sehr gängig sind), einfache Textformate (nicht in propritären Formaten) usw.
+**- Verfügbar auf allen Geräten**: Von Windows über Linux bis hin zu Android
 
 Auf Basis dieser Liste wurde getestet, was das Zeug hält - neben den bereits oben erwähnten Vertretern waren es auch durchaus kleinere, unbekanntere oder spezieller Anwendungen, die ich getestet habe. Besonders interessant zeigten sich die Wissensverwaltungssyteme, die über Plugins erweitert werden konnten - mit allen Vor- und Nachteilen des Ansatzes hat tatsächlich ein Vertreter dieser Gattung meinen Auswahlprozess gewonnen. Getestet habe ich u.a.:
 - Xournal++
@@ -20,6 +20,8 @@ Auf Basis dieser Liste wurde getestet, was das Zeug hält - neben den bereits ob
 - Notion
 - Obsidian.md
 - Canvas
+- ...
+
 Diese Liste ist nicht abschließend - es geht hier aber nur bedingt um den Auswahlprozess, weshalb ich die einzelnen  Abwägungen und Auswahlentscheidungen hier nicht weiter ausführen möchte. Letztendlich hat sich für mich **Obsidian.md** als App der Wahl durchgesetzt - auch wenn ich zwischenzeitlich Xournal++ und Notion favorisiert habe (aufgrund des "von Haus aus" einfacheren Handlings). Und mit dieser Entscheidung fing die Arbeit dann erst so richtig an ...
 
 ## Schritt 3: Obsidian.md oder wie ich lernte, die Offenheit zu lieben (vom Versuchen, Scheitern & der Beschränkung)
@@ -36,7 +38,11 @@ Das alles klingt sehr technisch-nerdig und: Das war und ist es auch. Aber dieser
 ## Schritt 4: In die Welt hinein - Unterricht mit Obsidian, Excalidraw und Co.
 In diesem Abschnitt möchte ich etwas mehr ins Detail gehen, wie ich meinen Unterricht in Obsidian organisiere und welche Plugins mich dabei wie unterstützen. Ich formuliere zunächst einen beispielhaften Ablauf, an dem ich dann die einzelnen Arbeits- und Präsentationsphasen aufzeige. Natürlich sieht mein Unterricht nicht immer so aus wie hier geschildert; es geht mir nur um das Exemplarische.
 
-### Ein beispielhafter Ablauf
+### Ein beispielhafter Ablauf ...
+...
+
+### ... und wie ich ihn mit meinem Setup bewältige
+...
 
 ### Plugins, die ich benutze
 Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich konzentriere mich dabei auf diejenigen, die für die Anwendung im Unterricht und für die Organisation hilfreich sind. Alle anderen Plugins (z. B. "Style Settings" für die Konfiguration der Anwendungsoberfläche oder "Cycle through Panes" für die angenehmere Bedienung per Tastatur) lasse ich hier weg, da diese immer eine Frage des persönlichen Geschmacks sind. 
@@ -66,6 +72,13 @@ Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich ko
 - Wer es möchte: Bau Verwaltungsstrukturen: https://www.youtube.com/watch?v=IRnq24jp3oc
 
 ## Schritt 5: Privacy by design - auch bei der Synchronisation
-- Der Vault ist ein Ordner auf der eigenen Festplatte - nicht mehr und nicht weniger
-- SyncThing: Direkte Synchronisation von Gerät zu Gerät, ohne Cloud-Anbindung - open source und Verschlüsselung inklusive
-- Fazit: Meine Daten unter meiner Kontrolle 
+Hier sollen, abschließend, noch drei Punkte erwähnt werden, die zeigen, inwiefern mein Setup - hauptsächlich bedingt durch die ausgewählten Anwendungen - die Anforderung "privacy by design" erfüllt.
+
+### Der Vault ist ein Ordner auf der eigenen Festplatte - nicht mehr und nicht weniger
+...
+
+### SyncThing: Direkte Synchronisation von Gerät zu Gerät, ohne Cloud-Anbindung - open source und Verschlüsselung inklusive
+...
+
+### Fazit: Meine Daten unter meiner Kontrolle 
+...
