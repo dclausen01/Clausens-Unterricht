@@ -69,8 +69,6 @@ Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich ko
 - Ozan's Image in Editor Plugin
 	- Unverzichtbar für das komfortable Anzeigen von Bildern in Notizen, die dann auch herangezoomt usw. werden können. 
 
-- Wer es möchte: Bau Verwaltungsstrukturen: https://www.youtube.com/watch?v=IRnq24jp3oc
-
 ## Schritt 5: Privacy by design - auch bei der Synchronisation
 Hier sollen, abschließend, noch drei Punkte erwähnt werden, die zeigen, inwiefern mein Setup - hauptsächlich bedingt durch die ausgewählten Anwendungen - die Anforderung "privacy by design" erfüllt.
 
