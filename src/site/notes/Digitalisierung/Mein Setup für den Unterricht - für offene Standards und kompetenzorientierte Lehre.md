@@ -39,10 +39,70 @@ Das alles klingt sehr technisch-nerdig und: Das war und ist es auch. Aber dieser
 In diesem Abschnitt möchte ich etwas mehr ins Detail gehen, wie ich meinen Unterricht in Obsidian organisiere und welche Plugins mich dabei wie unterstützen. Ich formuliere zunächst einen beispielhaften Ablauf, an dem ich dann die einzelnen Arbeits- und Präsentationsphasen aufzeige. Natürlich sieht mein Unterricht nicht immer so aus wie hier geschildert; es geht mir nur um das Exemplarische.
 
 ### Ein beispielhafter Ablauf ...
-...
+Für eine Unterrichtsstunde möchte ich einen *Arbeitsbogen* und ein *Tafelbild* vorbereiten - das Tafelbild soll dabei so gestaltet werden, dass ich es im Unterricht gemeinsam mit den Schüler:innen weiterentwickeln und Ergebnisse notieren kann. Dazu sollen z. B. um ein zentrales Bild herum *Stichworte handschriftlich* eingetragen und weiter unten in einer *Tabelle* Antworten auf Fragen zu einem Text erfasst werden können. Zum Einstieg verwende ich ein kurzes *Video*, das ich direkt von YouTube abspiele und das die Schüler:innen mit einer Situation konfrontiert, zu der sie Stellung beziehen können. Zum Abschluss der Stunde möchte ich den Schüler:innen Gelegenheit zur Reflexion geben, indem sie jeweils eine offen gebliebene Frage auf einem *gemeinsamen Notizbblock notieren*. Diese Fragen werde ich speichern und in der nachfolgenden Stunde als Einstieg verwenden.
 
 ### ... und wie ich ihn mit meinem Setup bewältige
-...
+Ich gehe hier chronologisch vor, konzentriere mich dabei auf die Vorbereitung bzw. Nutzung der Materialien:
+
+**Arbeitsbogen:**
+Den Arbeitsbogen kann ich ebenfalls mit Obsidian erstellen - ich verwende dafür entweder einfach eine Markdown-Notizseiten, auf der ich Bilder, Tabellen, formatierten Text usw. einbetten und ggf. ein Banner-Bild oben in die Notiz einfügen kann. Oder aber ich verwende hier - wenn ich etwas aufwändiger gestalten möchte - eine Excalidraw-Notizseite (s. Abbildung unten). Abschließend exportiere ich die Notizseite als PDF-Datei, die ich direkt in einen dafür vorbereiteten Ordner in unserer Kommunikationsplattform hochladen werde.
+![Pasted image 20230519124742.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230519124742.png)
+
+**Tafelbild:** 
+Für das Tafelbild verwende ich auf jeden Fall eine Excalidraw-Notizseite, um die Flexibilität zu bekommen. die ich mit dem Excalidraw-Plugin in Obsidian erstelle. Da ich während des Unterrichts handschriftlich notieren möchte, bereite ich zunächst die Ausgangssituation vor:
+![SmartSelect_20230519_164439_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164439_Obsidian.jpg)
+Mit dieser Vorbereitung gehe ich dann in den Unterricht, teile meinen Bildschirm (Modus: gespiegelter Bildschirm) und kann dann direkt auf meinem Bildschirm schreiben - alternativ könnte ich auch direkt am Whiteboard mit dem entsprechenden Stift schreiben, was aber meist nicht so präzise ist und meine Handschrift noch schlechter werden lässt als ohnehin schon 😉.
+
+**Stichworte handschriftlich erfassen:**
+Ich kann ebenso einfach handschriftliche Notizen erfassen wie in OneNote - mir stehen ebenfalls mehrere Stifte zur Verfügung (ich kann aber selbst eigene definieren und mein Schreibstil recht feingliedrig anpassen - hier habe ich einen "Fineliner" in blau verwendet):
+![SmartSelect_20230519_164900_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164900_Obsidian.jpg)
+
+**Tabelle:**
+Für das Erstellen von Tabellen in Excalidraw habe ich mir ein eigenes Script geschrieben, dass bestehende Elemente nutzt, um daraus eine hübsche Tabelle zu bauen (Boxen werden zu Tabellen zusammengefügt) - das Schreiben von Scripts für das Excalidraw-Plugins geht wirklich fix; allerdings nur, wenn man des Programmierens mächtig ist und schon etwas in JavaScript eingearbeitet ist. Für die Abschätzung, wie so ein Vorhaben aussieht und wie wenig Code dafür nötig ist hier mal mein (etwas umständlicher) Code:
+
+``` javascript
+// Version checken
+if(!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion("1.5.21")) {
+  new Notice("This script requires a newer version of Excalidraw. Please install the latest version.");
+  return;
+}
+
+// Standard values for rows and columns - get new values from user
+let rows = 1; let columns = 1;
+rows = parseInt (await utils.inputPrompt("number of rows?","number",rows.toString()));
+columns = parseInt (await utils.inputPrompt("number of columns?","number",columns.toString()));
+// Standard values for cell width and height - get new values from user
+let width = 100; let height = 50;
+width = parseInt (await utils.inputPrompt("cell width?","number",width.toString()));
+height = parseInt (await utils.inputPrompt("cell height?","number",height.toString()));
+// Should the height of the first row be different?
+let firstRowHeight = height;
+firstRowHeight = parseInt (await utils.inputPrompt("Height of first row?","number",firstRowHeight.toString()));
+
+var x = 0; var y = 0; var i = 0; var table = []; var actualHeight = 0; var space = 0;
+for (y = 0; y < rows; y++) {
+	actualHeight = actualHeight + space;
+	for (x = 0; x < columns; x++) {
+		if ((firstRowHeight !== height) && (y == 0)) {
+			table[i] = ea.addRect(x*width, actualHeight, width, firstRowHeight);
+			space = firstRowHeight;
+		} else {
+			table[i] = ea.addRect(x*width, actualHeight, width, height);
+			space = height;
+		}
+		
+		i++; 
+	}
+}
+tableGroup = ea.addToGroup(table);
+ea.setView("active");
+ea.addElementsToView();
+
+```
+
+**Video:**
+
+**kollaboratives Notieren auf einem gemeinsamen Notizblock:**
 
 ### Plugins, die ich benutze
 Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich konzentriere mich dabei auf diejenigen, die für die Anwendung im Unterricht und für die Organisation hilfreich sind. Alle anderen Plugins (z. B. "Style Settings" für die Konfiguration der Anwendungsoberfläche oder "Cycle through Panes" für die angenehmere Bedienung per Tastatur) lasse ich hier weg, da diese immer eine Frage des persönlichen Geschmacks sind. 
@@ -70,13 +130,11 @@ Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich ko
 	- Unverzichtbar für das komfortable Anzeigen von Bildern in Notizen, die dann auch herangezoomt usw. werden können. 
 
 ## Schritt 5: Privacy by design - auch bei der Synchronisation
-Hier sollen, abschließend, noch drei Punkte erwähnt werden, die zeigen, inwiefern mein Setup - hauptsächlich bedingt durch die ausgewählten Anwendungen - die Anforderung "privacy by design" erfüllt.
+Hier sollen, abschließend, noch drei Punkte erwähnt werden, die zeigen, inwiefern mein Setup - hauptsächlich bedingt durch die Datenverarbeitung in den von mir ausgewählten Anwendungen - die Anforderung "privacy by design" erfüllt.
 
 ### Der Vault ist ein Ordner auf der eigenen Festplatte - nicht mehr und nicht weniger
-...
+Die wichtigste Komponente zur Einhaltung des Prinzips privacy by design besteht darin, dass der Vault, in dem Obsidian alle Dateien, Einstellungen, Plugins und Scripte verwaltet einfach ein Ordner auf meiner Festplatte ist - nicht mehr und nicht weniger. Ob ich diesen Ordner nun zwischen mehreren Geräten synchronisieren möchte oder nicht, ob ich ihn in einem verschlüsselten Container unterbringe (z. B. mittel TrueCrypt) oder ihn in einem Cloud-Speicher hochlade, liegt ganz bei mir. Der Ordner selbst und die Daten darin verlassen jedenfalls nur dann meine Festplatte, wenn ich dies explizit organisiere (Obsidian bietet z. B. einen eigenen kostenpflichtigen Synkronisationsdienst namens Obsidian Sync an - hierfür ist dann auch ein Account erforderlich. Die Nutzung ist aber vollständig optional, man wird nicht einmal durch "Werbemaßnahmen" in der App darauf hingewiesen.). Ein weiterer Vorteil ergibt sich daraus, dass Notizen, andere Dateien, Plugins, Einstellungen und Scripte alle gemeinsam in einem Vault gespeichert werden: Ich kann sehr leicht Backups meiner kompletten Arbeitsumgebung machen und meinen gesamten Workflow ohne erneute Konfiguration auf andere Geräte übertragen, einfach, indem ich den Vault-Ordner auf ein anderes Gerät kopiere und dort mit Obsidian öffne.
 
 ### SyncThing: Direkte Synchronisation von Gerät zu Gerät, ohne Cloud-Anbindung - open source und Verschlüsselung inklusive
-...
-
-### Fazit: Meine Daten unter meiner Kontrolle 
-...
+SyncThing ist eine quelloffene Software, die darauf spezialisiert ist, Ordner auf verschiedenen Geräten synchron zu halten - ohne Zwischenspeicher, voll verschlüsselt und mit vollständiger Kontrolle über meine Daten. SyncThing wäre ein eigenes Thema, hier sei nur so viel gesagt: Durch diese Art, meine Daten zu synchronisieren verlässt mein Vault niemals meine Einflusssphäre, z. B. zu einem Cloud- oder anderen Speicheranbieter. Die Daten werden zwar über das Internet übertragen, jedoch End-zu-End-verschlüsselt und ausschließlich mit Speicherorten auf meinen eigenen Geräten. Weitere Informationen finden sich direkt auf der [Projekt-Website von SyncThing](https://syncthing.net/).
+Und hier noch die Anleitung, mit der ich Syncthing erfolgreich für meinen Obsidian-Vault eingerichtet habe: [How To Sync Obsidian Notes Across Different Devices For Free](https://beingpax.medium.com/how-to-sync-obsidian-notes-across-different-devices-for-free-326423218597)
