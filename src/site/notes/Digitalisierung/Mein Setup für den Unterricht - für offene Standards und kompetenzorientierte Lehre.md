@@ -9,7 +9,7 @@ Ich hätte nun natürlich bei OneNote bleiben können und einfach alle meine Sei
 
 ## Schritt 2: Was gibt es überhaupt auf dem Markt?
 Ich habe zunächst begonnen mir anzuschauen, was es so alles an Software gibt, die OneNote ersetzen könnte. Diese Suche gestaltete sich durchaus schwierig, da die üblichen "Softwareklassen" nicht so recht umfassend greifen: OneNote ist natürlich eine Notizapplikation - aber die üblichen Verdächtigen wie Evernote, Google Notizen, Apple Notes usw. sind dann eben exklusiver für das Erstellen und Verwalten von Notizen als OneNote das ist. Auch Anwendungen aus dem Bereich der Whiteboard-Apps (wie etwa Microsoft Whiteboard, Xournal++ usw.) bieten nicht alle Funktionen, die ich an OneNote habe schätzen gelernt. Ich überlegte mir also zunächst, was ich in einem Ersatz eigentlich erwartete und kam dabei ungefähr auf folgende Liste:
-**- Notizfunktionen**: Erfassen von Inhalten, Sortierung mehrerer Notizseiten mit mehreren Hierarchiebenen, präfiert in einer Ordner- bzw. Baumstruktur
+**- Notizbuchfunktionen**: Erfassen von Inhalten, Sortierung mehrerer Notizseiten mit mehreren Hierarchiebenen, präfiert in einer Ordner- bzw. Baumstruktur
 **- Whiteboard-Funktionen**: Eine Art "großer Leinwand", auf der ich frei Schreiben, Zeichnen, Bilder und PDF-Dokumente anordnen und miteinander verknüpfen kann
 **- Export von Daten**: Neu hinzugekommen ist der Wunsch, Inhalte leicht in gängige Formate exportieren zu können - Bildateien, PDF-Dateien (die ja nicht im eigentlichen Sinne "offen", dafür aber sehr gängig sind), einfache Textformate (nicht in propritären Formaten) usw.
 **- Verfügbar auf allen Geräten**: Von Windows über Linux bis hin zu Android
@@ -45,20 +45,20 @@ Für eine Unterrichtsstunde möchte ich einen *Arbeitsbogen* und ein *Tafelbild*
 Ich gehe hier chronologisch vor, konzentriere mich dabei auf die Vorbereitung bzw. Nutzung der Materialien:
 
 **Arbeitsbogen:**
-Den Arbeitsbogen kann ich ebenfalls mit Obsidian erstellen - ich verwende dafür entweder einfach eine Markdown-Notizseiten, auf der ich Bilder, Tabellen, formatierten Text usw. einbetten und ggf. ein Banner-Bild oben in die Notiz einfügen kann. Oder aber ich verwende hier - wenn ich etwas aufwändiger gestalten möchte - eine Excalidraw-Notizseite (s. Abbildung unten). Abschließend exportiere ich die Notizseite als PDF-Datei, die ich direkt in einen dafür vorbereiteten Ordner in unserer Kommunikationsplattform hochladen werde.
+Den Arbeitsbogen kann ich ebenfalls mit Obsidian erstellen - ich verwende dafür entweder einfach eine **Markdown-Notizseiten**, auf der ich Bilder, Tabellen, formatierten Text usw. einbetten und ggf. ein Banner-Bild oben in die Notiz einfügen kann. Oder aber ich verwende hier - wenn ich etwas aufwändiger gestalten möchte - eine **Excalidraw-Notizseite** (s. Abbildung unten). Abschließend exportiere ich die Notizseite als PDF-Datei, die ich direkt in einen dafür vorbereiteten Ordner in unserer Kommunikationsplattform hochladen kann.
 ![Pasted image 20230519124742.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230519124742.png)
 
 **Tafelbild:** 
-Für das Tafelbild verwende ich auf jeden Fall eine Excalidraw-Notizseite, um die Flexibilität zu bekommen. die ich mit dem Excalidraw-Plugin in Obsidian erstelle. Da ich während des Unterrichts handschriftlich notieren möchte, bereite ich zunächst die Ausgangssituation vor:
+Für das Tafelbild verwende ich auf jeden Fall eine Excalidraw-Notizseite, um die nötige Flexibilität zu bekommen. Da ich während des Unterrichts handschriftlich notieren möchte, bereite ich zunächst die Ausgangssituation vor:
 ![SmartSelect_20230519_164439_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164439_Obsidian.jpg)
-Mit dieser Vorbereitung gehe ich dann in den Unterricht, teile meinen Bildschirm (Modus: gespiegelter Bildschirm) und kann dann direkt auf meinem Bildschirm schreiben - alternativ könnte ich auch direkt am Whiteboard mit dem entsprechenden Stift schreiben, was aber meist nicht so präzise ist und meine Handschrift noch schlechter werden lässt als ohnehin schon 😉.
+Mit dieser Vorbereitung gehe ich dann in den Unterricht, teile meinen Bildschirm (Modus: gespiegelter Bildschirm) und kann dann direkt auf meinem Bildschirm schreiben - alternativ könnte ich auch direkt am Whiteboard mit dem entsprechenden Stift schreiben, was aber meist nicht so präzise ist und meine Handschrift noch schlechter werden lässt als sie ohnehin schon ist 😉.
 
 **Stichworte handschriftlich erfassen:**
-Ich kann ebenso einfach handschriftliche Notizen erfassen wie in OneNote - mir stehen ebenfalls mehrere Stifte zur Verfügung (ich kann aber selbst eigene definieren und mein Schreibstil recht feingliedrig anpassen - hier habe ich einen "Fineliner" in blau verwendet):
+Ich kann ebenso einfach handschriftliche Notizen erfassen wie in OneNote - mir stehen ebenfalls mehrere Stifte zur Verfügung (ich kann auch selbst eigene definieren und mein Schreibstil recht feingliedrig anpassen - hier habe ich einen "Fineliner" in blau verwendet):
 ![SmartSelect_20230519_164900_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164900_Obsidian.jpg)
 
 **Tabelle:**
-Für das Erstellen von Tabellen in Excalidraw habe ich mir ein eigenes Script geschrieben, dass bestehende Elemente nutzt, um daraus eine hübsche Tabelle zu bauen (Boxen werden zu Tabellen zusammengefügt) - das Schreiben von Scripts für das Excalidraw-Plugins geht wirklich fix; allerdings nur, wenn man des Programmierens mächtig ist und schon etwas in JavaScript eingearbeitet ist. Für die Abschätzung, wie so ein Vorhaben aussieht und wie wenig Code dafür nötig ist hier mal mein (etwas umständlicher) Code:
+Für das Erstellen von Tabellen in Excalidraw-Notizen habe ich mir ein eigenes Script geschrieben, das bestehende Elemente nutzt, um daraus eine hübsche Tabelle zu bauen (Boxen werden zu Tabellen zusammengefügt) - das Schreiben von Scripts für das Excalidraw-Plugins geht wirklich fix; allerdings nur, wenn man des Programmierens mächtig ist und schon etwas in JavaScript eingearbeitet ist; die spezifischen Funktionen der API sind gut dokumentiert. Für die Abschätzung, wie so ein Vorhaben aussieht und wie wenig Code für diese Aufgabe nötig ist, hier mein (etwas umständlicher) Code:
 
 ``` javascript
 // Version checken
@@ -101,8 +101,17 @@ ea.addElementsToView();
 ```
 
 **Video:**
+Der einfachste Weg, ein Video in den Unterricht einzubinden, besteht darin, den Link zum YouTube-Video in eine Notiz einzufügen - die URL wird als Link erkannt und mit einem Klick darauf kann das Video dann direkt im Browser geöffnet und abgespielt werden. Es gibt auch die Möglichkeit, das Video herunterzuladen und direkt im Vault zu speichern (das verbieten allerdings die terms of service von YouTube) - Obsidian bringt einen Viewer mit, um Videos in gängigen Formaten direkt abzuspielen. Alternativ gibt es auch ein Plugin, das Links zu Youtube-Videos in Markdown-Notizen als Vorschau anzeigt und es erlaubt, die Videos eingebettet direkt abzuspielen (**Simple Embeds**). 
+Da ich diese Funktion aber schon bei OneNote nicht genutzt habe, begnüge ich mich mit einem einfachen Link in der Excalidraw-Notiz, um das Video direkt abspielen zu können. So bekommen meine Schüler:innen auch direkt den Link , wenn sie das Video später noch einmal nachsehen möchten.
 
 **kollaboratives Notieren auf einem gemeinsamen Notizblock:**
+Hierfür nutze ich die [Website-Version von Excalidraw](https://excalidraw.com), also nicht das Excalidraw-Plugin in Obsidian, denn hier steht eine sehr gut funktionierende Kollaborationsmöglichkeit bereit (die, nebenbei bemerkt, besser funktioniert und weniger Synchronisationsfehler produziert als der "Platz für Zusammenarbeit" von OneNote) - ich erstelle dafür direkt auf der Website (s. Link oben) meine Vorbereitung für die Reflexionsabfrage und generiere dann den Link zur Kollaboration:
+![Pasted image 20230520110505.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230520110505.png)
+Diesen Link stelle ich meinen Schüler:innen dann als QR-Code (auf einer Excalidraw-Notizseite in Obsidian) und zusätzlich als URL über unsere Kommunikationsplattform zur Verfügung. Alle können nun parallel an der Oberfläche arbeiten und es wird sogar angezeigt, wer gerade wo arbeitet.
+Sobald die Bearbeitung abgeschlossen ist - hier also alle Schüler:innen ihre Fragen notiert haben - wähle ich links oben im Menü auf der Excalidraw-Seite "Speichern als ...":
+![Pasted image 20230520111643.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230520111643.png)
+Dort speichere ich die Datei im Format .excalidraw direkt in meinen Vault-Ordner und kann die Datei dann innerhalb von Obsidian öffnen und ggf. weiter bearbeiten - ohne, dass die Schüler:innen noch Schreibzugriff auf diese Datei hätten:
+![Pasted image 20230520112232.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230520112232.png)
 
 ### Plugins, die ich benutze
 Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich konzentriere mich dabei auf diejenigen, die für die Anwendung im Unterricht und für die Organisation hilfreich sind. Alle anderen Plugins (z. B. "Style Settings" für die Konfiguration der Anwendungsoberfläche oder "Cycle through Panes" für die angenehmere Bedienung per Tastatur) lasse ich hier weg, da diese immer eine Frage des persönlichen Geschmacks sind. 
