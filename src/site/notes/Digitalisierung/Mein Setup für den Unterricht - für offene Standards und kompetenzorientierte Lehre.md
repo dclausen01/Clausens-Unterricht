@@ -100,6 +100,9 @@ ea.addElementsToView();
 
 ```
 
+Damit lassen sich dann z. B. solche Tabellen generieren:
+![Pasted image 20230520114033.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230520114033.png)
+
 **Video:**
 Der einfachste Weg, ein Video in den Unterricht einzubinden, besteht darin, den Link zum YouTube-Video in eine Notiz einzufügen - die URL wird als Link erkannt und mit einem Klick darauf kann das Video dann direkt im Browser geöffnet und abgespielt werden. Es gibt auch die Möglichkeit, das Video herunterzuladen und direkt im Vault zu speichern (das verbieten allerdings die terms of service von YouTube) - Obsidian bringt einen Viewer mit, um Videos in gängigen Formaten direkt abzuspielen. Alternativ gibt es auch ein Plugin, das Links zu Youtube-Videos in Markdown-Notizen als Vorschau anzeigt und es erlaubt, die Videos eingebettet direkt abzuspielen (**Simple Embeds**). 
 Da ich diese Funktion aber schon bei OneNote nicht genutzt habe, begnüge ich mich mit einem einfachen Link in der Excalidraw-Notiz, um das Video direkt abspielen zu können. So bekommen meine Schüler:innen auch direkt den Link , wenn sie das Video später noch einmal nachsehen möchten.
