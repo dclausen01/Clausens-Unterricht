@@ -101,7 +101,7 @@ ea.addElementsToView();
 
 ```
 
-Damit lassen sich dann z. B. solche Tabellen generieren:
+Damit lassen sich dann z. B. solche Tabellen generieren (die Einfärbung und die Überschriften habe ich manuell hinzugefügt):
 ![Pasted image 20230520114033.png](/img/user/Digitalisierung/Anh%C3%A4nge/Pasted%20image%2020230520114033.png)
 
 **Video:**
