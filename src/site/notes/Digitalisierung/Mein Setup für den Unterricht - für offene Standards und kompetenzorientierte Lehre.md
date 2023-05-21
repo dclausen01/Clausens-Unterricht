@@ -130,7 +130,7 @@ Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich ko
 - Full Calendar
 	- Ein nett anzuschauender Kalender, in dem die Einträge als Notizen in einem Ordner der eigenen Wahl abgelegt werden. Sehr elegant, um z. B. den Überblick zu behalten über all die Aufgaben, die man im Jahresablauf (immer wieder) zu bestimmten Zeitpunkten erledigen muss.
 - Highlightr
-	- Textformatierungs-Plugin, das etwas Farbe ins Spiel bringt. Nicht mehr, aber auch nicht weniger.
+	- Textformatierungs-Plugin, das als Textmarker etwas Farbe ins Spiel bringt. Nicht mehr, aber auch nicht weniger.
 - Image Inserter
 	- Hiermit kann ich - ohne die App zu verlassen - Bilder aus offenen Quellen (also solche, die Bilder mit Creative Commons Lizenzen) direkt in meine Notizen einfügen kann (z. B.v on Unsplash u. a.)
 - Kanban
