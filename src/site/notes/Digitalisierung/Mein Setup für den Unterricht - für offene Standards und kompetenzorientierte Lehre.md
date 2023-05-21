@@ -139,6 +139,8 @@ Im Folgenden stelle ich (sehr) kurz die von mir verwendeten Plugins vor - ich ko
 	- Eine "eierlegende Wollmilchsau" was die (Um)Gestaltung des Workflows betrifft - das Plugin hat zu viele Funktionen, um sie hier auch nur im Ansatz zu beschreiben.
 - Meld Encrypt
 	- Nutze ich, um verschlüsselte Notizen zu erstellen, wenn ich besonders sensible Daten erfassen möchte. Auch Teile von Notizen können verschlüsselt werden.
+- Notion-like Tables
+	- Erlaubt es, Tabellen im Stil von [Notion](https://www.notion.so/de-de) in Obsidian anzulegen. Der Vorteil ist, dass die Tabellen einfacher anzulegen und warten sind als Markdown-Tabellen - zusätzlich zu den Tabellen, die MAKE.md schon mitbringt lassen sich hier zudem zu einzelnen Spalten Berechnungen anstellen, z. B. um eine Summe aller Werte dieser Spalte zu bilden usw. 
 - Ozan's Image in Editor Plugin
 	- Unverzichtbar für das komfortable Anzeigen von Bildern in Notizen, die dann auch herangezoomt usw. werden können. 
 
