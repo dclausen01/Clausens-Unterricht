@@ -51,12 +51,12 @@ Den Arbeitsbogen kann ich ebenfalls mit Obsidian erstellen - ich verwende dafür
 
 **Tafelbild:** 
 Für das Tafelbild verwende ich auf jeden Fall eine Excalidraw-Notizseite, um die nötige Flexibilität zu bekommen. Da ich während des Unterrichts handschriftlich notieren möchte, bereite ich zunächst die Ausgangssituation vor:
-![SmartSelect_20230519_164439_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164439_Obsidian.jpg)
+![[SmartSelect_20230519_164439_Obsidian.jpg\|SmartSelect_20230519_164439_Obsidian.jpg]]
 Mit dieser Vorbereitung gehe ich dann in den Unterricht, teile meinen Bildschirm (Modus: gespiegelter Bildschirm) und kann dann direkt auf meinem Bildschirm schreiben - alternativ könnte ich auch direkt am Whiteboard mit dem entsprechenden Stift schreiben, was aber meist nicht so präzise ist und meine Handschrift noch schlechter werden lässt als sie ohnehin schon ist 😉.
 
 **Stichworte handschriftlich erfassen:**
 Ich kann ebenso einfach handschriftliche Notizen erfassen wie in OneNote - mir stehen ebenfalls mehrere Stifte zur Verfügung (ich kann auch selbst eigene definieren und mein Schreibstil recht feingliedrig anpassen - hier habe ich einen "Fineliner" in blau verwendet):
-![SmartSelect_20230519_164900_Obsidian.jpg](/img/user/Digitalisierung/Anh%C3%A4nge/SmartSelect_20230519_164900_Obsidian.jpg)
+![[SmartSelect_20230519_164900_Obsidian.jpg\|SmartSelect_20230519_164900_Obsidian.jpg]]
 
 **Tabelle:**
 Für das Erstellen von Tabellen in Excalidraw-Notizen habe ich mir ein eigenes Script geschrieben, das bestehende Elemente nutzt, um daraus eine hübsche Tabelle zu bauen (Boxen werden zu Tabellen zusammengefügt) - das Schreiben von Scripts für das Excalidraw-Plugins geht wirklich fix; allerdings nur, wenn man des Programmierens mächtig ist und schon etwas in JavaScript eingearbeitet ist; die spezifischen Funktionen der API sind gut dokumentiert. Für die Abschätzung, wie so ein Vorhaben aussieht und wie wenig Code für diese Aufgabe nötig ist, hier mein (etwas umständlicher) Code:
