@@ -11,39 +11,15 @@ body {
     //   color: black;
     //  }
 
-/*
+
     .content {
-        max-width: 700px;
-        margin: auto;
-        font-size: 18px;
-        line-height: 1.5;
-        margin-top: 90px;
-        position: relative;
+        max-width: 900px;
         overflow: auto; 
-    
-        @media (max-width: 800px) {
-            margin-top: 75px;
-        }
     } 
-  */  
+  
     .content svg {
         width: 100%; /* SVG auf 100% der Breite der .content erweitern */
         height: auto; /* Die Höhe automatisch anpassen, um das Seitenverhältnis beizubehalten */
     }
 
-/*    
-.content {
-       max-width: 800px;
-       margin: 15px;
-       // font-size: 18px;
-       // line-height: 1.5;
-       margin-top: 50px;
-       // position: relative;
-       overflow: scroll;
-        
-    @media (max-width: 100%) {
-        margin-top: 45px;
-        overflow: scroll;
-    }
-} */
 }
