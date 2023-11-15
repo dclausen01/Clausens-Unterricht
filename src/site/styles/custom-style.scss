@@ -15,12 +15,12 @@ body {
        // margin: 40px;
        // font-size: 18px;
        // line-height: 1.5;
-       // margin-top: 90px;
+       margin-top: 50px;
        // position: relative;
        overflow: scroll;
         
-    @media (max-width: 99%) {
-        // margin-top: 45px;
+    @media (max-width: 100vh) {
+        margin-top: 45px;
         overflow: scroll;
     }
 }
