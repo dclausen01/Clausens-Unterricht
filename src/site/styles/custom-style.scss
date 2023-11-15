@@ -11,14 +11,14 @@ body {
     //   color: black;
     //  }
     .content {
-       max-width: 90%;
-       margin: 90px;
+       max-width: auto;
+       margin: 40px;
        font-size: 18px;
        line-height: 1.5;
        margin-top: 90px;
        position: relative;
 
-     @media (max-width: 90%) {
+     @media (max-width: 95%) {
           margin-top: 45px;
     }
 // }
