@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF10/LF10a/02 - Was ist eigentlich UI und was ist UX/"}
+{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF10/LF10a/02 - Was ist eigentlich UI und was ist UX/","noteIcon":""}
 ---
 
 # Aufgabe 
