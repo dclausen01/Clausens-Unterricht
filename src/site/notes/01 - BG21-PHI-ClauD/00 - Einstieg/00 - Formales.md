@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 - BG21-PHI-ClauD/00 - Einstieg/00 - Formales/"}
+{"dg-publish":true,"permalink":"/01 - BG21-PHI-ClauD/00 - Einstieg/00 - Formales/","noteIcon":""}
 ---
 
 # Was erwartet Sie dieses Jahr im Fach Philosophie?
