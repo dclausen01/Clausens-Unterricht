@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digitalisierung/Warum ich OneNote für eines der besten Tools für den Einsatz im Unterricht halte und warum ich es trotzdem nicht mehr benutze/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Digitalisierung/Warum ich OneNote für eines der besten Tools für den Einsatz im Unterricht halte und warum ich es trotzdem nicht mehr benutze/"}
 ---
 
 In diesem kurzen Text soll es um eine weitreichende Entscheidung gehen, die ich kürzlich für die Gestaltung meines Unterrichts getroffen haben - die Abkehr von Microsoft OneNote. Damit will ich weder die Qualitäten der Software in Abrede stellen (ganz im Gegenteil) noch die Entscheidung von Kolleg:innen <u>für</u> den Einsatz dieser Software anzweifeln. Aber worüber reden wir hier überhaupt?
