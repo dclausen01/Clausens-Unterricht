@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF10/LF10a/03 - Anforderungsanalyse/","noteIcon":""}
+{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF10/LF10a/03 - Anforderungsanalyse/"}
 ---
 
 # Aufgabe
