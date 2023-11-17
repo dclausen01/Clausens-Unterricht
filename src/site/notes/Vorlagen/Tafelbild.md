@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Vorlagen/Tafelbild/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Vorlagen/Tafelbild/"}
 ---
 
 ![[<% await tp.system.clipboard() + ".excalidraw.svg\|1024" %>]]
