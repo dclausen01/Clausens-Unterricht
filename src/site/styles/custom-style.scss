@@ -20,7 +20,8 @@ body {
   
     .content svg {
         width: 100%; /* SVG auf 100% der Breite der .content erweitern */
-        height: 100%; /* Die Höhe automatisch anpassen, um das Seitenverhältnis beizubehalten */
+        height: auto; /* Die Höhe automatisch anpassen, um das Seitenverhältnis beizubehalten */
+        display: block;
     }
 
 }
