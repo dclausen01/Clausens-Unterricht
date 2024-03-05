@@ -27,7 +27,7 @@ Schritte:
    c) In der Zelle unter der Spalte "Gewicht" sollst du die Summe aller Gewichte berechnen.
    d) In der Zelle unter der Spalte "Alter" sollst du das Minimum und Maximum des Alters durch Formeln angeben lassen.
    e) In der Zelle unter der Spalte "Blutdruck" sollst du den höchsten Blutdruck und den niedrigsten Blutdruck finden und zusätzlich den Durchschnittswert des Blutdrucks aller Patienten.
-   f) Füge eine Spalte "Alter" nach der Spalte "Geburtsdatum" ein. Berechne auf Basis des aktuellen Datums (=HEUTE()) und des Geburtsdatum ins Spalte D das Alter des Patienten.
+   f) Füge eine Spalte "Alter" nach der Spalte "Geburtsdatum" ein. Berechne auf Basis des aktuellen Datums (=HEUTE()) und des Geburtsdatum ins Spalte D das Alter des Patienten. (*Hinweis: Das Ergebnis der Formel muss als "Standard" formatiert werden und wird dann in Tagen angezeigt. Sinnvoll ist es, das Ergebnis also auch noch in Jahre umzurechnen.*)
 
 4. Druckfunktionen:
    a) Füge eine Kopfzeile hinzu, die den Namen des Krankenhauses ("Klinikum Bebezett") auf der linken Seite und auf der rechten Deinen eigenen Namen enthält.
