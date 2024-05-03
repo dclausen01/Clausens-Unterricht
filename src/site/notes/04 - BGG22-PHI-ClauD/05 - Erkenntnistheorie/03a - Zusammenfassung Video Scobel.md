@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/04 - BGG22-PHI-ClauD/05 - Erkenntnistheorie/03a - Zusammenfassung Video Scobel/"}
 ---
 
+# Zusammenfassung des Videos "Leben wir in der Wirklichkeit? Platons Höhlengleichnis"
+
 Das Video spricht über die Filterblase, Manipulation und Überwachung in sozialen Netzwerken und stellt die Verbindung zu Platons Höhlengleichnis her. Das Höhlengleichnis besagt, dass wir in einer Höhle sitzen und nur die Schatten an der Wand sehen. Die digitalen Oberflächen unserer Geräte sind wie die Schatten in der Höhle, denn sie zeigen uns nur Muster und Bilder, aber nicht die eigentliche Realität dahinter. Das Video betont, dass wir das "Zauberwort" Erkenntnis selbst erlernen müssen, um hinter die Oberfläche zu gelangen. Platons Höhlengleichnis ist bereits über 2400 Jahre alt und frei verfügbar.
 
 Plato war der Überzeugung, dass die Dinge der Welt nur Realisierungen von Ideen sind und dass Ideenlehren, wie er sie in seinem Höhlengleichnis dargestellt hat, uns neue Erkenntnisse liefern können. Es wird darauf hingewiesen, dass philosophische Texte oft bessere Einsichten bieten als brandneue Texte, da sie ungewohnt zu lesen sind und eher Unbekanntes darstellen - neuere Texte geben einem oft das Gefühl, ohnehin nur das zu lesen, was gerade aktuell und von vielen gesagt wird. Das Video erwähnt auch das Umfeld von Platon und seine zentralen Themen wie das Gute, die Gerechtigkeit und die Theorie.
