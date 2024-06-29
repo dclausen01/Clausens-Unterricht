@@ -24,4 +24,11 @@ body {
         display: block;
     }
 
+main.content {
+    max-width: max(700px, calc(100% - 300px - 300px))
 }
+
+}
+
+
+
