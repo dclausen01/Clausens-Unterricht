@@ -13,9 +13,11 @@ body {
 
 
     .content {
-        max-width: 800px;
+        /* max-width: 800px; */
         overflow: auto; 
         margin-top: 10px;
+        display: flex;
+        justify-content: center;
     } 
   
     .content svg {
