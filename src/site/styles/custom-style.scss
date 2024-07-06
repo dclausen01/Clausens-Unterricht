@@ -23,9 +23,12 @@ body {
     } 
   
     .excalidraw-svg {
-        width: 100%; /* SVG auf 100% der Breite der .content erweitern */
-        height: auto; /* Die Höhe automatisch anpassen, um das Seitenverhältnis beizubehalten */
+        width: 100% !important;
+        height: auto !important;
+        max-width: 100%;
+        max-height: 100vh;
         display: block;
+        /* overflow: hidden; */
     }
 
 
