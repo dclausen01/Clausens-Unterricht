@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04 - BGG22-PHI-ClauD/05 - Erkenntnistheorie/03a - Zusammenfassung Video Scobel/"}
+{"dg-publish":true,"permalink":"/04 - BGG22-PHI-ClauD/05 - Erkenntnistheorie/03a - Zusammenfassung Video Scobel/","noteIcon":""}
 ---
 
 # Zusammenfassung des Videos "Leben wir in der Wirklichkeit? Platons Höhlengleichnis"

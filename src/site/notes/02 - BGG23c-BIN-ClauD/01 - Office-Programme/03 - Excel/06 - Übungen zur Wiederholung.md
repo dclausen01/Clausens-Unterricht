@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/06 - Übungen zur Wiederholung/"}
+{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/06 - Übungen zur Wiederholung/","noteIcon":""}
 ---
 
 # Übungsaufgabe

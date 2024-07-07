@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07 - BGW23-PHI-ClauD/01 - Anthropologie/03a - Placemat - Der Mensch als evolutionäres Wesen/"}
+{"dg-publish":true,"permalink":"/07 - BGW23-PHI-ClauD/01 - Anthropologie/03a - Placemat - Der Mensch als evolutionäres Wesen/","noteIcon":""}
 ---
 
 ## Aufgabe

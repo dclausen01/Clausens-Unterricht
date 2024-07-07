@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF12/Blockchain/00a - Übersicht Blockchain (Links)/"}
+{"dg-publish":true,"permalink":"/03 - IT21-LFAE-ClauD/LF12/Blockchain/00a - Übersicht Blockchain (Links)/","noteIcon":""}
 ---
 
 1. https://www.inf-schule.de/kryptologie/blockchain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06 - BGGT23-PHI-ClauD/01 - Anthropologie/01 - Gedankenexperiment - Besucher von außerhalb/"}
+{"dg-publish":true,"permalink":"/06 - BGGT23-PHI-ClauD/01 - Anthropologie/01 - Gedankenexperiment - Besucher von außerhalb/","noteIcon":""}
 ---
 
 # Was ist ein Gedankenexperiment?

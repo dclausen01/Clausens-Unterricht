@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/10a - Einnahmen-Ausgaben-Übersicht/"}
+{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/10a - Einnahmen-Ausgaben-Übersicht/","noteIcon":""}
 ---
 
 # Einnahmen-Ausgaben-Übersicht

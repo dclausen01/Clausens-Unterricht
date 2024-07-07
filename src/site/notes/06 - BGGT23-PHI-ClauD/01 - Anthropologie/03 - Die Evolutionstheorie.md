@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06 - BGGT23-PHI-ClauD/01 - Anthropologie/03 - Die Evolutionstheorie/"}
+{"dg-publish":true,"permalink":"/06 - BGGT23-PHI-ClauD/01 - Anthropologie/03 - Die Evolutionstheorie/","noteIcon":""}
 ---
 
 Film: [Evolution des Menschen - Planet Wissen (WDR)](https://bbzrdeckde-my.sharepoint.com/:v:/g/personal/dennis_clausen_bbz-rd-eck_de/Ecb0v0F1b_9PvG5jrLoulk8BF4QDkq6DHz_jtwtwTOlImQ)

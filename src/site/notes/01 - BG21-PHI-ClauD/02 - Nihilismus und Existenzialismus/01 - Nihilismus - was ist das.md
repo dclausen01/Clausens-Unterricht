@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 - BG21-PHI-ClauD/02 - Nihilismus und Existenzialismus/01 - Nihilismus - was ist das/"}
+{"dg-publish":true,"permalink":"/01 - BG21-PHI-ClauD/02 - Nihilismus und Existenzialismus/01 - Nihilismus - was ist das/","noteIcon":""}
 ---
 
 # Nihilismus

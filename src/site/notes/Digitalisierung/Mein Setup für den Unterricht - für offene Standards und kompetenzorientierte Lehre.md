@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digitalisierung/Mein Setup für den Unterricht - für offene Standards und kompetenzorientierte Lehre/"}
+{"dg-publish":true,"permalink":"/Digitalisierung/Mein Setup für den Unterricht - für offene Standards und kompetenzorientierte Lehre/","noteIcon":""}
 ---
 
 ## Schritt 1: Warum nicht mehr OneNote?

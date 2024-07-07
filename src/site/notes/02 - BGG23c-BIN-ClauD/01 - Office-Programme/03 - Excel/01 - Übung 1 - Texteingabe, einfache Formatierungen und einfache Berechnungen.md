@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/01 - Übung 1 - Texteingabe, einfache Formatierungen und einfache Berechnungen/"}
+{"dg-publish":true,"permalink":"/02 - BGG23c-BIN-ClauD/01 - Office-Programme/03 - Excel/01 - Übung 1 - Texteingabe, einfache Formatierungen und einfache Berechnungen/","noteIcon":""}
 ---
 
 # Formulare erstellen mit Excel (einfache Formatierungen und einfache Berechnungen)

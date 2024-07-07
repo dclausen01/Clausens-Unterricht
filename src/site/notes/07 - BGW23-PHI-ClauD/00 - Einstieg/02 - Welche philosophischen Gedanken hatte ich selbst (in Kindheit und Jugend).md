@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07 - BGW23-PHI-ClauD/00 - Einstieg/02 - Welche philosophischen Gedanken hatte ich selbst (in Kindheit und Jugend)/"}
+{"dg-publish":true,"permalink":"/07 - BGW23-PHI-ClauD/00 - Einstieg/02 - Welche philosophischen Gedanken hatte ich selbst (in Kindheit und Jugend)/","noteIcon":""}
 ---
 
 * Ist der Glaube rational oder ein Wahn, an dem jede festhält, weil er/sie Bestätigung sucht (nicht P / P)
