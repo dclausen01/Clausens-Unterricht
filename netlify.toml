@@ -2,9 +2,6 @@
   publish = "dist"
   command = "npm install && npm run build"
 
-[build.environment]
-  NODE_OPTIONS = "--max_old_space_size=8196"
-
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
