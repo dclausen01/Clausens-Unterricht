@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/90 - Material Philosophie/11/01 - Anthropologie/05a AB_Sartre_Anthropologie/","noteIcon":""}
+---
+
+Der Artikel behandelt die Philosophie von Jean-Paul Sartre, einem wichtigen Denker der Existenzphilosophie. Sartre unterscheidet sich von früheren Philosophen, weil er nicht zuerst nach dem Wesen des Menschen fragt, sondern nach seiner Existenz. Er glaubt, dass der Mensch sich seiner Existenz bewusst ist und diese ständig hinterfragt. Daher ist jeder Mensch gezwungen, sein eigenes Wesen durch sein Leben zu gestalten und sich immer wieder neu zu definieren. Sartre sagt, dass der Mensch „zur Freiheit verurteilt“ ist, was bedeutet, dass er die Verantwortung für seine Entscheidungen und sein Leben trägt.
+
+Um das zu verdeutlichen, vergleicht Sartre den Menschen mit einem Gegenstand, wie einem Papiermesser. Ein Papiermesser wird von einem Handwerker nach einem bestimmten Konzept und einer Technik hergestellt. Der Handwerker weiß, wozu das Papiermesser dienen soll, bevor er es macht. Im Gegensatz dazu existiert der Mensch zuerst und definiert sich danach selbst, ohne dass ihm eine vorgegebene Essenz oder Natur innewohnt. Der Mensch ist also nicht wie ein Papiermesser, dessen Zweck vorher festgelegt ist, sondern er ist ein Entwurf, der sich selbst gestaltet.
+
+Sartre argumentiert auch, dass der Mensch für seine Existenz und für die Menschheit als Ganzes verantwortlich ist. Das bedeutet, dass jeder Einzelne nicht nur für sich selbst, sondern auch für die Auswirkungen seiner Entscheidungen auf andere Menschen verantwortlich ist. Dies führt zu der Erkenntnis, dass es keine festgelegte menschliche Natur gibt, weil der Mensch sich selbst erschafft und definiert. Sartres Philosophie fordert uns auf, unsere Freiheit zu nutzen und unser Leben aktiv zu gestalten.
