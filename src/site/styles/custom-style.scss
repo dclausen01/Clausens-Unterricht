@@ -28,7 +28,38 @@ body {
         max-width: 100%;
         max-height: 100vh;
         display: block;
-        /* overflow: hidden; */
+    }
+
+    // Excalidraw wrapper: reduce excessive margin (inline style sets margin: 50px)
+    .excalidraw-wrapper {
+        margin: 10px !important;
+        height: 70vh !important;
+    }
+
+    // Mobile: minimize padding/margin so drawings fill the screen
+    @media (max-width: 768px) {
+        .excalidraw-wrapper {
+            margin: 0 !important;
+            height: 80vh !important;
+        }
+
+        // Reduce content container padding for excalidraw pages on mobile
+        .content:has(.excalidraw-wrapper) {
+            padding-left: 4px !important;
+            padding-right: 4px !important;
+            max-width: 100% !important;
+        }
+
+        .container {
+            text-align: left;
+        }
+    }
+
+    // Small phones
+    @media (max-width: 480px) {
+        .excalidraw-wrapper {
+            height: 85vh !important;
+        }
     }
 
 
